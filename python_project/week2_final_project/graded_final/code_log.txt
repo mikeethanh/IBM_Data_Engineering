@@ -1,0 +1,6 @@
+2024-Apr-20-14:27:54:Init ETL
+2024-Apr-20-14:27:57:done ETL. Init transform
+2024-Apr-20-14:27:57:done transform. Init loading to csv file
+2024-Apr-20-14:27:57:done loading to csv file. Init loading to database
+2024-Apr-20-14:27:57:done loading to database. Excute loading
+2024-Apr-20-14:27:57:Process Completed
