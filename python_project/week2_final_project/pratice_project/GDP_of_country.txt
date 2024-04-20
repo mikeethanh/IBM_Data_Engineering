@@ -1,0 +1,6 @@
+2024-Apr-20-10:26:27:Initiating ETL progress
+2024-Apr-20-10:26:30:Data extraction complete. Initiating Transforms
+2024-Apr-20-10:26:30:Data transformation complete. Initiating Loading to csv
+2024-Apr-20-10:26:30:Data loading complete. Initiating SQL connection
+2024-Apr-20-10:26:30:SQL connection complete. Initiating Loading to database
+2024-Apr-20-10:26:30:ETL Job Ended
